@@ -26,12 +26,12 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐋𝐲𝐭𝐳 𝐁𝐨𝐭* —◉
+║    ◉— *Rugal Bot* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* 𝙻𝚈𝚃𝚉 𝙾𝙵𝙸𝙲𝙸𝙰𝙻
-║➤ *Numero:* wa.me/51955336417
+║➤ *Owner:* Rugal
+║➤ *Numero:* wa.me/573207804209
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
@@ -630,7 +630,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐋𝐲𝐭𝐳 𝐁𝐨𝐭 👑',
+title: '👑 Rugal 👑',
 body: null,
 thumbnail: img,
 }}}
