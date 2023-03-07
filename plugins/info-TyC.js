@@ -25,30 +25,13 @@ _6.- Los audios/notas de voz/imágenes/videos o cualquier otro archivo multimedi
 *➤ Mensaje del numero del Bot?*
 _- Si en algún momento recibe un mensaje del numero del Bot y no es un comando posiblemente sea de el propietario del Bot o el propietario del numero, este es un persona real por lo que se le pide que no le falte el respeto_
 
-*➤ Base usada para este Bot:*
-*- https://github.com/BochilGaming/games-wabot-md*
 
-*➤ Agradecimientos a:*
-*- Unx21*
-*- Narutomo*
-*- BochilGaming*
-*- Unxteam*
-*- Bochilteam*
-*- ConfuMods*
-*- Theh2so4*
-*- Hiro*
-*- The.sad.boy01*
-*- botstylee*
-*- Amel*
-*- FatihArridho*
-*- Adiwajshing*
-*- Darlyn*
-*- Etc.*
 
 *⁉️ Te quedaron dudas?*
 _- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ 
 
-> wa.me/5219992095479
-> Lytz Oficial 
+> wa.me/573207804209
+> wa.me/573217930681
+> https://www.instagram.com/rugal.ventas/ 
 
-*∆ Lytz - BOT - MD ∆*`
+*∆ Rugal - BOT - MD ∆*`
